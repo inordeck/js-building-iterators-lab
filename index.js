@@ -13,9 +13,9 @@ var numArray = [0,1,10,100,1000];
 /* myEach */
 
 //
-/*myEach(numArray, function print(element, index, arr) {
+myEach(numArray, function print(element, index, arr) {
    console.log('inside myEach', element, index, arr);
- });*/
+ });
 
 
 
